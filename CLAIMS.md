@@ -1,42 +1,19 @@
-# CLAIMS.md — Verification Log
+# Claims Verification
 
-> Every factual claim in your Curator Cards should be verifiable. Log at least one claim per card here.
-> This is the habit that separates professionals from prompt-paste operators.
+## Bauhaus
+Claim: Herbert Bayer created a Bauhaus poster design in 1923.
+Source: https://www.moma.org/collection/works/220977
+Verification: Confirmed through MoMA collection page.
 
----
+## Swiss Style
+Claim: Müller-Brockmann’s “Musica Viva” poster is dated 1958.
+Source: https://www.moma.org/collection/works/7233
+Verification: Confirmed through MoMA collection page.
 
-## Card 1: Bauhaus
-
-### Claim 1
-- **Claim:**
-- **Source link(s):**
-- **Confidence:** High / Medium / Low
-- **Notes:**
-
----
-
-## Card 2: Swiss Style
-
-### Claim 1
-- **Claim:**
-- **Source link(s):**
-- **Confidence:** High / Medium / Low
-- **Notes:**
-
----
-
-## Card 3: [New Wave / Grunge]
-
-### Claim 1
-- **Claim:**
-- **Source link(s):**
-- **Confidence:** High / Medium / Low
-- **Notes:**
-
----
+## New Wave
+Claim: Wolfgang Weingart’s “Typographic Process Nr. 2” is dated 1973.
+Source: https://www.moma.org/collection/works/86504
+Verification: Confirmed through MoMA collection page.
 
 ## Reflection
-
-**One AI claim I didn't trust at first and how I verified it:**
-
-*[Write 2–3 sentences. What did the AI say? Why did it feel wrong? What source confirmed or denied it?]*
+Using AI required active verification of dates and works. The AI generated accurate general descriptions but specific examples required checking museum databases to confirm titles and years. This process reinforced the importance of human verification in AI-assisted research.
